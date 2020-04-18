@@ -1,1 +1,1 @@
-# ALTO
+# Confinamiento-expandido
