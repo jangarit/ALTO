@@ -450,7 +450,7 @@ label {
 .text {
   margin-bottom: 24px;
   color: #1a1a1a;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 500;
 }
 
@@ -501,7 +501,7 @@ label {
 
 .main-heading {
   color: #1a1a1a;
-  font-size: 45px;
+  font-size: 40px;
   letter-spacing: -0.02em;
 }
 
